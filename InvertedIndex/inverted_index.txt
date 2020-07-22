@@ -1,0 +1,4127 @@
+simple{24, 1, 4, 30}
+small{1, 65, 47, 53, 24}
+illustrations{16, 1, 24}
+kitten{24, 1}
+reaching{24, 1}
+butterfly''{24, 1}
+backward{24, 1}
+glance{24, 1}
+beauty''{24, 1}
+sheep{1, 2, 3, 4, 5, 6, 7, 8, 10, 12, 14, 15, 16, 17, 19, 20, 21, 23, 24, 25, 28, 29, 30, 32, 34, 35, 36, 38, 39, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 53, 54, 55, 57, 58, 59, 60, 61, 62, 63, 64}
+toward{24, 1}
+crescent''{24, 1}
+squirrel{24, 1}
+looking{24, 1}
+demure''{24, 1}
+parasitology{2}
+4001{2}
+lecture{2, 35, 5, 41, 45, 63}
+45{2}
+-{65, 2, 3, 34, 35, 37, 7, 38, 16, 48, 50, 52, 53, 22, 55, 28, 61}
+internal{2}
+parasites{2}
+goats{2}
+index{2, 58, 61}
+production{2, 39, 42, 23, 62}
+systems{65, 2, 6, 7, 20}
+common{2, 42, 48, 51, 20, 56}
+periparturient{2}
+rise{2}
+(ppr){2}
+copyright{2, 5, 41, 13, 50, 20, 52, 22, 56, 26, 63}
+©{2, 20}
+1995{2, 39, 13, 48, 50, 56, 26, 60, 61}
+university{32, 2, 35, 37, 14, 48, 26, 29}
+pennsylvania{2, 34}
+school{2, 35}
+veterinary{2}
+medicine{2}
+faculty:{2}
+dr.{16, 57, 2}
+colin{2}
+johnstone{2}
+student:{2}
+russell{2}
+howe-smith{2}
+'v97{2}
+comments{2, 20, 52, 22, 29}
+hsmith@dolphin.upenn.edu{2}
+re:{3, 36, 6, 7, 15, 47, 48, 49, 60}
+underdog{3}
+(underdog@netcom.com){3}
+tue{3}
+16{34, 3, 36, 9, 15}
+may{65, 34, 3, 6, 7, 42, 43, 15, 17, 49, 50, 20, 51, 52, 61, 57, 58, 60, 29}
+95{3}
+12:28:38{3}
+-0700{3, 60}
+messages{3, 6, 7, 15, 48, 49, 60}
+sorted{3, 6, 7, 15, 48, 49, 60}
+by:{3, 36, 6, 7, 15, 48, 49, 60}
+[{3, 6, 7, 15, 48, 49, 60}
+date{3, 6, 7, 15, 48, 49, 61, 53, 60, 29}
+][{3, 6, 7, 15, 48, 49, 60}
+thread{3, 6, 7, 15, 48, 49, 60}
+subject{3, 5, 6, 7, 41, 15, 48, 49, 58, 60, 29, 63}
+author{3, 35, 6, 7, 15, 48, 49, 58, 60, 29}
+]{3, 6, 7, 15, 48, 49, 60}
+next{65, 3, 6, 7, 15, 48, 49, 60}
+message:{3, 6, 7, 15, 48, 49, 60}
+tripmaster{3, 60}
+monkey:{3, 60}
+moouuuoonnnnntryyybb{3}
+yes{3, 4}
+yes!{3}
+previous{3, 6, 7, 15, 48, 49, 61, 25, 60, 29}
+joe{18, 3}
+marougi{3}
+3576253:{3}
+opinion{3, 4}
+reply{3, 6, 7, 15, 49}
+to:{3, 6, 7, 15, 49, 61, 29}
+steve.kirk@psemail.ps.net:{3}
+re[2]:{3}
+music{35, 3}
+thread:{3, 6, 7, 48, 49, 60}
+punties@aol.com:{3}
+mooney{3}
+tunes{3}
+>{3, 6, 7, 15, 48, 49, 51}
+beg{3}
+question{8, 3, 4}
+shepherds{19, 3}
+are?{3}
+just{3, 4, 37, 7, 53, 56, 57}
+roam{3}
+hill{58, 3}
+side{3, 29}
+fending{3}
+themselves?{3}
+predators{3}
+left?{3}
+1915{3}
+hills{3}
+now{3, 4, 7, 42, 50, 51, 27, 62}
+orange{3}
+county{34, 3}
+killed{57, 42, 3}
+great{50, 3}
+predator{3}
+california{48, 26, 3, 34}
+used{3, 8, 42, 14, 50, 57, 58}
+valleys{3}
+grizzley{3}
+bear.{3}
+alas{3}
+tho{3}
+want{57, 3, 55, 7}
+fend{3}
+bears{3}
+fmr.{3}
+think{32, 3, 4, 37, 7}
+mountain{16, 19, 10, 3}
+lions{3}
+come{26, 3, 42, 37}
+far{3}
+desert{50, 3}
+foxes{3}
+pose{3}
+much{3, 4, 6, 42, 20, 55, 57, 60}
+threat{3}
+sheep.{32, 3, 4, 36, 39, 42, 12, 44, 48, 49, 20, 22, 30}
+coyotes{57, 3}
+might{57, 3, 6}
+predator.{3}
+joachim{3}
+flying{4, 53}
+first{64, 4, 42, 16, 48, 61, 59, 29}
+monty{4, 53}
+python's{4, 53}
+circus{53, 4, 37}
+episode{4}
+ever!!!{4}
+(a{8, 4}
+tourist{4}
+approaches{4}
+shepherd.{4, 6}
+sounds{40, 4}
+outdoors{4, 31}
+heard.){4}
+tourist:{4}
+good{8, 50, 4}
+afternoon.{4}
+shepherd:{4}
+eh{4}
+'tis{4}
+that.{4}
+holiday?{4}
+nope{4}
+live{64, 4, 5, 41, 42, 50, 57, 58, 63}
+'ere.{4}
+oh{34, 4, 55}
+you.{4, 20}
+uh...those{4}
+they?{4}
+yeh.{4}
+hmm{4}
+thought{8, 51, 4}
+were.{4}
+trees?{4}
+fair{4}
+one{32, 64, 35, 4, 6, 8, 42, 43, 60, 57, 58, 28, 29}
+recent{65, 51, 4, 53}
+weeks{57, 4}
+'as{4}
+mind.{4}
+considered{57, 58, 4}
+nestin'.{4}
+nesting?{4}
+aye.{4}
+like{32, 4, 8, 53, 56, 57}
+birds?{4}
+exactly.{4}
+belief{4}
+laborin'{4}
+misapprehension{4}
+birds.{4}
+observe{4}
+be'avior.{4}
+take{35, 4, 20, 44}
+start{50, 4}
+sheeps'{4}
+tendency{4}
+'op{4}
+field{32, 4, 14, 20, 61}
+'ind{4}
+legs.{57, 4}
+witness{57, 4}
+attmpts{4}
+fly{57, 4}
+tree{57, 4}
+tree.{4}
+notice{4}
+as...plummet.{4}
+another{57, 35, 4, 6}
+question.{4}
+thing{41, 4, 5, 63}
+sure{4}
+creature{4}
+air.{4}
+enormous{4}
+difficulty{4}
+comparatively{4}
+act{4, 23}
+perchin'.{4}
+trouble{4}
+dim.{4}
+get{57, 35, 4, 7}
+idea{48, 4, 53}
+'eads{4}
+shiftin'{4}
+it.{4, 37, 15, 48, 62}
+idea?{4}
+harold.{4}
+dangerous{4, 55}
+creatures{4}
+clever{4}
+'e's{4}
+realized{4}
+sheep's{57, 42, 35, 4}
+life{50, 4, 58}
+consists{4, 28}
+standin'{4}
+around{42, 4}
+months{57, 42, 4}
+bein'{4}
+eaten.{4}
+depressing{4}
+prospect{4}
+ambitious{4}
+well{4, 39, 42, 15, 23, 58}
+remove{56, 4}
+harold?{4}
+commercial{26, 59, 4, 13}
+possibilities{4}
+'e{4}
+succeeds.{4}
+fiends{41, 45, 5, 63}
+graphic{5, 41, 44, 48, 61, 63}
+russ{41, 5, 63}
+mcclay.{41, 5, 63}
+last{65, 37, 5, 39, 41, 42, 48, 50, 20, 53, 63}
+updated:{41, 63, 5, 39}
+04/16/96{41, 5, 63}
+e-mail{37, 5, 41, 53, 22, 63}
+address:{41, 5, 22, 63}
+sheepfiends@nexchi.com{41, 5, 63}
+introduction{5, 41, 42, 20, 58, 63}
+commentary{41, 5, 63}
+musicians{41, 5, 63}
+upcoming{41, 5, 63}
+past{5, 41, 16, 58, 63}
+gigs{41, 5, 63}
+history{41, 58, 5, 63}
+art{35, 5, 41, 44, 53, 61, 63}
+page{32, 35, 5, 37, 39, 41, 42, 43, 45, 48, 18, 50, 20, 53, 22, 54, 63, 25, 29, 31}
+fiends'{41, 5, 63}
+photo{41, 5, 63}
+album{41, 5, 63}
+sheepjam{41, 5, 63}
+mailing{41, 29, 5, 63}
+list{65, 36, 5, 7, 41, 47, 48, 20, 23, 59, 63}
+related{5, 41, 12, 58, 63}
+bands{41, 5, 63}
+faq{41, 5, 63}
+text{5, 41, 56, 26, 63}
+format{5, 41, 61, 29, 63}
+links{65, 37, 5, 9, 41, 12, 51, 53, 63}
+cool{5, 41, 48, 55, 63}
+link{5, 41, 20, 53, 63}
+recordings:{41, 5, 63}
+neil{41, 5, 63}
+meme{41, 5, 63}
+sacred{41, 5, 63}
+tremendum{41, 5, 63}
+enter...{41, 5, 63}
+void{41, 5, 63}
+(two{41, 5, 63}
+tapes){41, 5, 63}
+principles{5, 41, 23, 59, 63}
+chimera{41, 5, 63}
+light{41, 63, 5, 57}
+dark{41, 5, 63}
+untitled{41, 5, 63}
+recordings{41, 5, 63}
+dan{5, 8, 41, 45, 63}
+foss{41, 45, 5, 63}
+tape{41, 45, 5, 63}
+#1{41, 45, 5, 63}
+leri-l{41, 5, 63}
+compilation{41, 58, 5, 63}
+ordering{41, 5, 63}
+information{65, 35, 5, 41, 42, 44, 50, 61, 58, 28, 29, 63}
+someday{41, 5, 63}
+available:{41, 63, 5, 57}
+sound{5, 40, 41, 44, 63}
+samples{41, 5, 63}
+(.au){41, 5, 63}
+notes{41, 29, 5, 63}
+people{32, 35, 5, 6, 7, 8, 41, 12, 15, 16, 51, 53, 57, 63}
+encouraged{41, 42, 5, 63}
+copy{35, 5, 41, 44, 63}
+distribute{41, 5, 63}
+tapes{41, 5, 63}
+fiends.{41, 5, 63}
+ask{41, 5, 6, 63}
+include{41, 42, 5, 63}
+following{64, 65, 5, 41, 42, 63}
+duplicates.{41, 5, 63}
+please{65, 5, 41, 20, 22, 29, 63}
+check{5, 41, 53, 26, 63}
+occasionally{41, 5, 63}
+url{5, 41, 13, 26, 63}
+change.{41, 5, 63}
+retain{41, 5, 63}
+duplicates{41, 5, 63}
+tape.{41, 5, 63}
+(c){5, 41, 13, 50, 22, 56, 26, 63}
+(date{41, 5, 63}
+tape){41, 5, 63}
+acceess{41, 5, 63}
+via{5, 39, 41, 42, 63}
+www{41, 5, 63}
+={41, 5, 63}
+http://www.nexchi.com/sheepfiends/{41, 5, 63}
+web{65, 5, 41, 53, 26, 63}
+put{5, 6, 41, 56, 63}
+together{41, 59, 5, 63}
+brian{41, 5, 62, 63}
+cameron.{41, 5, 63}
+thanks{41, 5, 63}
+everyone{41, 63, 5, 55}
+helped{41, 5, 63}
+gather{41, 5, 63}
+otherwise{41, 63, 5, 57}
+together!{41, 5, 63}
+special{5, 41, 42, 58, 63}
+dave{41, 5, 63}
+hurst{41, 5, 63}
+running{5, 41, 44, 57, 63}
+account{5, 41, 42, 23, 63}
+publically{41, 5, 63}
+accessable{41, 5, 63}
+internet{35, 5, 41, 12, 63}
+account.{41, 5, 63}
+mcclay{41, 5, 63}
+designing{41, 5, 63}
+logos{41, 20, 5, 63}
+images{41, 5, 63}
+pages.{41, 29, 5, 63}
+click{35, 5, 9, 41, 51, 63}
+see{5, 9, 41, 18, 51, 55, 63}
+mcclay's{41, 5, 63}
+artwork.{41, 5, 63}
+email{35, 5, 41, 15, 63}
+address{5, 41, 61, 29, 63}
+rmm@transend.com.tw.{41, 5, 63}
+also{35, 5, 6, 8, 41, 42, 14, 15, 48, 50, 25, 60, 63, 57}
+goes{41, 5, 63}
+mark{41, 5, 63}
+goodman{41, 5, 63}
+use{5, 39, 41, 10, 56, 57, 26, 28, 61, 62, 63}
+computer-manipulated{41, 5, 63}
+photographic{41, 5, 63}
+artwork{5, 41, 13, 56, 26, 63}
+inserts{41, 5, 63}
+labels.{41, 5, 63}
+mark's{41, 5, 63}
+name{5, 8, 41, 51, 26, 28, 29, 63}
+examples{5, 41, 44, 20, 58, 63}
+darin{41, 5, 63}
+stumme{41, 5, 63}
+wonderful{41, 53, 5, 63}
+work{35, 5, 39, 8, 41, 63}
+printing{41, 5, 63}
+labels{41, 5, 63}
+taking{41, 5, 63}
+photos,{41, 5, 63}
+help{5, 41, 16, 62, 63}
+many{32, 5, 41, 42, 44, 49, 20, 56, 57, 63}
+projects.{41, 5, 63}
+graphics{5, 41, 46, 48, 56, 26, 63}
+site{35, 5, 41, 14, 53, 63}
+1994-1996{41, 5, 63}
+wolves{49, 15, 6, 7}
+inet{49, 15, 6, 7}
+gene{49, 15, 6, 7}
+spafford{6}
+(spaf@cs.purdue.edu){6}
+fri{49, 6}
+13{9, 34, 6, 49}
+94{6, 15}
+14:27:58{6}
+-0500{48, 6}
+john{64, 49, 42, 6}
+hawkinson:{49, 6}
+[8lgm]-advisory-7.unix.passwd.11-may-1994{49, 6}
+spafford:{49, 15, 6, 7}
+timothy{15, 6, 7}
+newsham:{6, 15}
+steve{49, 6}
+simmons:{6}
+robert{36, 6, 7, 49, 60}
+heinlein{49, 6, 7}
+book{6, 7, 8, 49, 20, 23, 57}
+starship{49, 6, 7}
+troopers{49, 6, 7}
+raises{49, 36, 6, 7}
+issue{6, 7, 8, 49, 61}
+prevent{6, 7, 42, 49, 57}
+insurrection.{49, 6, 7}
+make{6, 7, 42, 49, 53}
+guardians{49, 6, 7}
+will{64, 58, 6, 7, 39, 42, 12, 13, 44, 45, 49, 23, 56, 26, 29}
+turn{49, 42, 6, 7}
+dogs.{49, 6, 7}
+little{20, 37, 6, 55}
+evidence{58, 51, 6}
+show{40, 6, 47}
+experience{42, 6}
+breaking{6}
+computer{35, 20, 6}
+particular{42, 6}
+talent{40, 6}
+protecting{6}
+them.{6, 7}
+specific{48, 6}
+insights{6}
+rare{48, 6}
+general{64, 6}
+background{6}
+case.{6}
+instance{6}
+able{6}
+guess{6}
+someone's{6}
+password{6}
+mean{6}
+someone{48, 6}
+design{35, 6, 8, 44, 15, 48, 61}
+cryptographic{6}
+algorithm{6}
+protect{57, 6}
+passwords{6}
+exploit{13, 6}
+race{6}
+condition{6}
+knows{6}
+write{6}
+effective{57, 42, 6}
+code{6}
+without{6, 39, 42, 48, 50, 57}
+case{48, 17, 20, 6}
+sheepdogs{6}
+ever{6}
+stray{6}
+kill{57, 6}
+lamb{62, 42, 53, 6}
+must{35, 6, 61, 56, 57, 58, 29}
+down.{42, 6}
+killer{6}
+way{57, 34, 60, 6}
+trust{6}
+--{64, 6, 42, 20, 60}
+temptation{6}
+occasion.{6}
+--spaf{6}
+newsham{7}
+(newsham@wiliki.eng.hawaii.edu){7}
+wed{7}
+11{7, 9, 48, 29, 61}
+1994{48, 49, 22, 7}
+13:23:56{7}
+-1000{7}
+(hst){7}
+hobbit{7}
+:{37, 7, 15, 25, 60, 57}
+iss{7}
+equivalents{7}
+casper{7}
+dik:{7}
+passwd{15, 7}
+-f{7}
+paul{64, 57, 26, 7}
+robinson:{7}
+program{39, 7, 44, 28, 61}
+brings{57, 7}
+stop{20, 7}
+crackers.{7}
+already{57, 7}
+got{49, 7}
+priveleges{7}
+god{7}
+try{32, 64, 7, 55, 27}
+break{7}
+system{56, 49, 62, 7}
+order{7, 61, 20, 23, 59, 29}
+generally{42, 7}
+mindset{7}
+keep{57, 55, 7}
+silly.{7}
+hacking/cracking{7}
+whatever{48, 64, 7}
+deceived.{7}
+reasons{7}
+hacking{7}
+getting{37, 7}
+priveledge{7}
+god.{7}
+can{7, 8, 42, 48, 50, 55, 57, 62}
+often{39, 7, 42, 15, 57}
+possibly{7}
+give{15, 46, 7}
+goal.{7}
+hack{7}
+fun.{7}
+admins{7}
+yet{57, 7}
+still{42, 7}
+peoples{7}
+machines?{7}
+robinson{36, 7}
+paul@tdr.com{7}
+voted{7}
+largest{7}
+polluter{7}
+(ietf){7}
+randy{7}
+bush{7}
+<randy@psg.com>{7}
+blade{8}
+runner{8}
+/{8, 49, 42, 28}
+androids{8}
+dream{8}
+electric{8}
+sheep?{8}
+based{8}
+on?{8}
+loosely{8}
+philip{8}
+k.{8}
+dick:{8}
+(dadoes).{8}
+least{8}
+say{8, 15}
+film{8}
+adaptation{8}
+borrowed{8}
+number{8, 42, 29}
+concepts{8}
+characters{8}
+book.{8}
+dick{8}
+wrote{8, 35}
+short{8}
+story{8, 16, 53}
+total{8, 42, 28}
+recall{8}
+remember{8}
+wholesale.{8}
+recurring{8}
+theme{8}
+dick's{8}
+personal{8}
+human{8, 57, 50}
+identity.{8}
+explored{8}
+dadoes{8}
+reality?{8}
+likely{8}
+find{8, 20}
+second-hand{8}
+bookstore.{8}
+re-printed{8}
+as:{8, 58}
+(do{8}
+sheep?).{8}
+title{8, 28, 29}
+comes{8, 46}
+alan{8}
+e.{8, 49, 34, 62}
+nourse{8}
+called{8, 42}
+bladerunner.{8}
+william{8}
+s.{8, 29}
+burroughs{8}
+took{8}
+bladerunner{8}
+movie){8}
+1979.{8}
+rights{8, 50, 20, 52, 29}
+({8}
+perpetuity{8}
+){8, 17, 58}
+sold{8}
+ridley{8}
+scott.{8}
+similarities{8}
+nourse's{8}
+scott's{8}
+only.{8}
+refers{8}
+deliver{8}
+medical{8, 39}
+instruments{8}
+outlaw{8}
+doctors{8}
+obtain{8, 57, 50, 60}
+legally.{8}
+scott{8}
+made{8, 42, 13, 48, 49, 58}
+codename{8}
+deckard.{8}
+visuals{8}
+inspired{8, 32}
+o'bannon{8}
+moebius{8}
+jean{8}
+giraud){8}
+long{8, 57, 35}
+tomorrow{8}
+french{8}
+wonders{8}
+universe{8}
+comic{8}
+series.{8}
+back{35, 36, 37, 8, 45, 47, 20, 55, 25, 61}
+says{8, 57, 55}
+(translated{8}
+french):{8}
+comic-book{8}
+contains{8, 56, 39}
+famous{8}
+stories,{8}
+originally{8}
+parody{8}
+ended{8}
+real{8, 48, 53}
+meant{8, 42}
+of:{8}
+classic{8}
+american{34, 8, 20, 57, 58}
+detective-story.{8}
+later{8, 57, 29}
+visual{8}
+reference{8, 59, 39}
+movie{8}
+runner.{8}
+giraud{8}
+costume{8}
+walt{8}
+disney{8}
+tron,{8}
+syd{8}
+mead{8, 25}
+mechanical{8}
+design.{8}
+murray{8}
+muzzle@cs.uq.oz.au{8}
+~{8}
+saggital{9}
+view{9, 20, 52}
+picture{9}
+corresponding{9}
+coronal{9}
+section.{9}
+1{9, 34, 22, 25}
+2{34, 9, 44, 25, 59, 28}
+3{9, 34, 62, 47}
+4{9, 26, 34, 42}
+5{34, 9, 50, 57, 29, 62}
+6{9, 34, 61}
+7{9, 34, 55}
+8{34, 9, 42, 23, 29}
+9{9, 34}
+10{35, 9, 55, 56, 57, 26, 28, 61}
+12{9, 55}
+14{9, 34, 42}
+15{9, 34, 50, 60}
+17{9, 42, 57}
+your_address@here{9}
+cerebellum{11}
+superior{58, 11}
+inferior{11}
+colliculi{11}
+research{65, 35, 58, 12, 13, 14, 56, 57, 26, 28}
+animal{64, 39, 42, 12, 50, 51, 23}
+science{57, 12}
+currently{26, 35, 12}
+process{57, 12}
+creating{12}
+pages{65, 37, 12, 29}
+detail{12}
+department{65, 12}
+involved{59, 12}
+faculty{58, 12}
+current{65, 12, 39, 23}
+oklahoma{12, 28}
+state{34, 12, 17, 58, 28, 61}
+university's{58, 12}
+u.{56, 26, 13}
+c.{56, 26, 13}
+berkeley{56, 26, 13}
+inktomi{56, 26, 13}
+prototype{56, 26, 44, 13}
+moving{13}
+base{13}
+technology{65, 57, 26, 13}
+service{61, 28, 13}
+additions{13}
+changes{13}
+database{54, 13, 46}
+part{58, 44, 13, 56, 25, 26}
+move.{13}
+sorry{13}
+inconvenience{13}
+new{35, 42, 13, 50, 53, 23, 57, 59, 61}
+resources{25, 28, 13, 23}
+fully{64, 26, 13}
+improve{13}
+scalable{26, 13}
+server{35, 13, 46, 26, 27}
+technology.{13}
+enter{56, 13}
+url:{13}
+home{65, 35, 37, 39, 42, 13, 45, 18, 50, 20, 51, 52, 53, 56, 57, 26, 29, 31}
+|{48, 26, 56, 13}
+search{48, 26, 56, 13}
+add{56, 26, 13}
+urls{56, 26, 13}
+email:{13, 46, 48, 56, 26}
+brewer@cs.berkeley.edu,{56, 26, 13}
+gauthier@cs.berkeley.edu{56, 26, 13}
+berkeley's{56, 26, 13}
+sponsored{58, 13, 56, 26, 29}
+arpa;{56, 26, 13}
+sun{13, 48, 52, 56, 26}
+microsystems{56, 26, 52, 13}
+donated{56, 26, 13}
+equipment.{56, 26, 13}
+lisa{56, 26, 13}
+sardegna{56, 26, 13}
+poker{14}
+flat{29, 14}
+range:{50, 14}
+creek{14}
+ionosonde.{14}
+located{14}
+murphy{14}
+dome{14}
+road{34, 60, 14}
+northwest{14}
+fairbanks{14}
+various{58, 61, 14}
+radio{14}
+physics{14}
+observations.{14}
+present{14}
+includes{14}
+digital{60, 14}
+ionosonde{14}
+operated{14}
+u.s.{57, 58, 61, 14}
+air{14}
+force.{14}
+lidar{14}
+nagoya{14}
+run{60, 14}
+site.{14}
+andrew{60, 22, 15}
+beckett{15}
+(abeckett@fmlrnd.co.uk){15}
+mon{60, 15}
+10:25:08{15}
+bst{15}
+eduard{15}
+vopicka:{15}
+major{34, 42, 15}
+hole{15}
+sunos{15}
+(???!!!){15}
+trojans{15}
+ftp{35, 15}
+sites{65, 35, 53, 15}
+maybe{15}
+article{64, 15}
+daa05138@gravity.science.gmu.edu{15}
+tim{15}
+scanlon{15}
+<tfs@science.gmu.edu>{15}
+(){15}
+writes:{15}
+neither{16, 42, 15}
+apperently{15}
+rigid,{15}
+intolerant{15}
+close{55, 15}
+minded.{15}
+kind{64, 51, 15}
+presumtion{15}
+foolish{15}
+dangerous.{15}
+world{37, 40, 15, 50, 20, 57}
+complex{15}
+place{34, 15, 48, 29, 61}
+making{53, 15}
+analogies{15}
+offers{15}
+tool{15}
+simplify{15}
+simplifies{15}
+sorts{15}
+debates{15}
+fall{57, 55, 15}
+victim{57, 15}
+sophmoric{15}
+logical{15}
+faults{15}
+commonly{48, 57, 15}
+associated{39, 15}
+ambiguity{15}
+equivocation.{15}
+seems{15}
+argumentative{15}
+fallacies{15}
+seem{15}
+especialy{15}
+prone{42, 15}
+abuse{15}
+particularly{15}
+argumentum{15}
+ad{15}
+hominem{15}
+false{15}
+cause{57, 15}
+fallacies.{15}
+lots{15}
+pretentious{15}
+crap{15}
+deleted{15}
+place.{15}
+arguments{15}
+net{37, 15}
+waste{57, 15}
+bandwith.{15}
+proposing{15}
+thoroughly{15}
+rigorous{15}
+us{55, 15}
+classical{15}
+education.{15}
+therefore{15}
+suggest{15}
+dont{15}
+bandwidth{15}
+dictionary{15}
+swallowed{15}
+time{42, 35, 15}
+read{48, 35, 37, 15}
+verbose{15}
+twaddle.{15}
+beckett.{15}
+senior{15}
+engineer{15}
+fujitsu{15}
+microelectronics{15}
+ltd{15}
+highway{64, 34, 15}
+house{58, 35, 15}
+phone{29, 15}
+(0628){15}
+71116{15}
+norreys{15}
+drive{34, 15}
+fax{15}
+773990{15}
+maidenhead.{15}
+berks{15}
+sl6{15}
+4bw{15}
+a.beckett@fmlrnd.co.uk{15}
+sheepeaters:keepers{16}
+white{16}
+men{16, 57, 40}
+visited{16}
+yellowstone{16}
+early{16, 42}
+nineteenth{16}
+century{16, 58}
+group{16, 32, 35}
+reclusive{16}
+shoshone-speaking{16}
+indians{16}
+known{16, 53, 55}
+sheepeaters{16}
+inhabited{16}
+plateau.{16}
+guns{16}
+horses{16}
+lived{16}
+stone-age{16}
+lifestyle{16}
+hunting{16, 57}
+rocky{16, 50}
+bighorn{16, 25, 50, 51}
+food{16, 57, 50, 22}
+clothing.{16}
+modern{16, 51}
+archeology{16}
+anthropology{16}
+along{16}
+first-hand{16}
+accounts{16, 42}
+trappers{16}
+explorers{16}
+tell{16, 53}
+sheepeaters:{16}
+keepers{16}
+past.{16}
+video{16, 64}
+ages{16}
+reveals{16}
+prehistoric{16}
+living{16, 42}
+became{16, 57}
+world's{16, 42}
+national{16, 42, 58}
+park.{16}
+vivid{16}
+delores{16}
+dinsmore{16}
+authoritative{16}
+narration{16}
+les{16}
+davis{16, 42, 64}
+museum{16, 44}
+rockies{16}
+bring{16, 59}
+alive{16, 57}
+native{16}
+americans.{16}
+etv-001{16}
+(vhs){16}
+30{65, 42, 16, 56, 57, 26, 28}
+minutes{16}
+$29.95{16}
+earthtalk{16}
+studios{16}
+etalk@aol.com{16}
+full{35, 17, 22, 56, 26, 29}
+sheepskin{17}
+natural{17}
+substance.{17}
+colored{17}
+embossed{17}
+left{17}
+tanned{17}
+withbasil{17}
+(274{17}
+formoso's{18}
+nothing{18}
+here.{18}
+move{18, 50}
+along.{18}
+uf{19, 21}
+lambs{57, 42, 19, 62}
+rams{42, 19}
+bt{19}
+animals{57, 42, 19, 39}
+rt{19, 21}
+musk{19}
+oxen{19}
+ranches{19}
+shearing{42, 19, 53, 21, 57}
+stealing{20}
+type{29, 20, 28}
+works{20}
+frederic{20}
+goudy{48, 20}
+designer{20, 61}
+said,{20}
+anyone{48, 20, 36, 60}
+letterspace{48, 20}
+lower{48, 20}
+steal{48, 20}
+eccentric{20}
+quote{48, 20}
+authors{59, 20, 29}
+spiekermann{20}
+ginger{20}
+whirlwind{20}
+tour{20}
+never{64, 51, 20, 55}
+forget.{20}
+shepherd{34, 20, 53, 55}
+reviewer's{20}
+gentle{20}
+publishing{20}
+dropped{20}
+lot{48, 20}
+unsuspecting{20}
+souls{20}
+years.{42, 20, 50}
+typography{20}
+advice{20}
+aphorisms.{20}
+ny{48, 20}
+times{20, 62}
+intellectually{20}
+stimulating{20}
+recently{64, 20}
+essentially{20}
+user's{20}
+guide{20, 37}
+typographic{20}
+aesthetics{20}
+age.{20}
+aiga{20}
+charming{20}
+treat{20}
+lowest{20}
+denominator{20}
+every{57, 43, 20, 55}
+work.{20}
+step{57, 20}
+magazine{20}
+isbn:{20}
+0-672-48543-5{20}
+call{57, 20}
+hayden{34, 20}
+publishers{20}
+1-800-428-5331{20}
+adobe{20}
+questions{20, 22, 52}
+problems{42, 20, 53}
+regarding{20, 29, 52}
+service?{20, 52}
+1994,1995{20}
+incorporated.{20, 28}
+reserved.{50, 20}
+certain{20, 29}
+names{20, 29}
+designs{20, 61}
+titles{20}
+words{48, 20, 53, 56, 29}
+phrases{20}
+constitute{57, 20}
+trademarks{20}
+servicemarks{20}
+tradenames{20}
+incorporated{20}
+entities{20}
+registered{20}
+jurisdictions.{20}
+activate{20}
+attributions.{20}
+wool{42, 44, 21, 57, 59, 28}
+british{42, 22}
+public{65, 29, 22}
+house...{22}
+eclectic{22}
+drink{22}
+patrons{22}
+conversation.{22}
+proprietors:{22}
+susan{57, 34, 22}
+chester{22}
+51{22}
+n.{22}
+main{22}
+street{34, 22}
+plaza{65, 22}
+ashland{22}
+97520{22}
+inquiries{22}
+bookings{22}
+ring:{22}
+503.482.6414{22}
+flock@theblacksheep.com{22}
+feed{57, 42, 22}
+hunger{22}
+quench{22}
+thirst{22}
+entertain{22}
+mind!{22}
+open{57, 35, 22}
+seven{57, 28, 22}
+days{64, 57, 42, 22}
+week{57, 42, 22}
+11am{22}
+am.{22}
+bill{64, 22}
+fayre{22}
+bs{22}
+philosophy{22}
+front{42, 22}
+door{22}
+trivia{48, 22}
+staff{22, 39}
+mind{22}
+html{42, 51, 22}
+alexander{22}
+a.{22}
+mace{22}
+fwiffo@mind.net{22}
+contact{65, 22}
+black{58, 29, 22, 55}
+contents{22}
+infostructure{22}
+usa.{52, 22}
+behaviour{23}
+sheep:{23}
+biological{23}
+implications{23}
+jj{23}
+lynch{23}
+gn{23}
+hinch{23}
+db{23}
+adams{23}
+csiro{23}
+division{23}
+production/univ.{23}
+england{64, 23}
+armidale{23}
+nsw/bureau{23}
+rural{23}
+canberra{23}
+provides{57, 23}
+readable{23}
+basis{23}
+relevance{23}
+practice{42, 23}
+throughout{42, 58, 62, 23}
+world.{23}
+focus{23}
+issues{23}
+central{65, 23}
+production:{23}
+feeding{42, 23}
+social{50, 23}
+organisation{23}
+reproductive{62, 23}
+maternal{23}
+lamb.{42, 23}
+interest{64, 23}
+farmers{57, 42, 23}
+graziers{59, 23}
+extension{28, 23}
+officers{64, 23}
+students{23}
+agriculture{64, 59, 28, 23}
+concerned{23}
+production.{62, 23}
+1992{42, 23}
+237p.{23}
+refs{59, 23}
+illus.{23}
+paperback{23}
+isbn{59, 23}
+0{34, 59, 28, 23}
+643{23}
+05329{23}
+$60.00{23}
+publisher{59, 23}
+oxon{23}
+uk/east{23}
+melbourne{59, 23}
+vic:{59, 23}
+cab{23}
+international/csiro{23}
+australia{57, 42, 23}
+return{50, 23, 56, 26, 59}
+publication{59, 29, 23}
+industrial{25, 57}
+development{65, 25, 28}
+prairie{25}
+bluff{25}
+alberta{25}
+canada.{25}
+reports{25}
+publications:{25}
+morgantini{25}
+l.e.{25}
+1991.{25, 57}
+study.{25}
+final{25}
+report{25}
+summary{25}
+conclusions.{25}
+unpubl.{25}
+prepared{25}
+shell{25}
+canada{25, 51}
+ltd.{25, 57}
+wildlife{25, 57}
+consulting{25}
+39{25}
+pp.{25}
+1993.{25, 42, 29}
+ecology{25}
+movements{25}
+distribution{25}
+impact{25, 50}
+activities.{25}
+preliminary{25}
+results{56, 25, 26, 42}
+presented{25, 58}
+northern{25, 34, 51}
+wild{35, 42, 50, 51, 25, 58}
+goat{25}
+council{25, 42, 58, 57}
+biennial{25}
+symposiums{25}
+1988{25, 58}
+banff{25}
+(alberta){25}
+1990{25, 58, 57}
+clarkston{25}
+(washington).{25}
+published{25, 29}
+proceedings{25}
+follows:{25, 29}
+d.a.{25}
+morgantini.{25}
+1988.{25, 50}
+drilling{25}
+country:{25}
+gas{25}
+alberta.{25}
+bienn.{25}
+symp.{25}
+north.{25}
+counc.{25}
+6:{25}
+165-{25}
+167.{25}
+mead.{25}
+1990.{25}
+prime{25}
+range{25, 42}
+south-western{25}
+7:{25}
+56-66{25}
+words:{56, 26}
+documents{56, 26}
+20{34, 50, 56, 26, 28}
+50{42, 50, 56, 57, 26}
+100{56, 26, 42}
+displaying{56, 26}
+terse{56, 26}
+soon{57, 26, 37}
+replaced{26, 42}
+featured{26}
+service.{26}
+news!{26}
+exploits{26}
+parallel{26}
+computing{26}
+build{26, 55}
+using{57, 26, 42, 39}
+commodity{26}
+workstations{26}
+sparcstation{26}
+10s.{26}
+network{26, 46}
+(now){26}
+project{26, 61, 38}
+berkeley.{26}
+implemented{26}
+graduate{26, 53}
+student{26}
+gauthier{26}
+professor{26}
+eric{26, 53}
+brewer.{26}
+instructions{26, 29}
+searching{26}
+linking{26}
+truth{26}
+document{56, 26, 58, 39}
+counting{26, 46}
+info{65, 26}
+from?{26}
+busy!sorry{27}
+busy{27}
+right{48, 57, 27, 60}
+handle{27}
+request.{27}
+later.{27}
+commission{28}
+mission{65, 28, 55}
+statement{28}
+promote{28}
+greater{34, 28, 42}
+oklahoma's{28}
+products.{28}
+ten{28}
+members{28}
+elected{28}
+producers{57, 28}
+state.{28}
+remaining{28}
+three{56, 57, 42, 28}
+president{58, 28}
+board{58, 28, 29}
+director{64, 58, 28}
+cooperative{28}
+duties{28}
+responsibilities{28}
+responsibility{28}
+devise{28}
+education{28}
+publicity{28}
+utilization{28}
+research,{28}
+market{42, 28}
+produced{32, 42, 28, 44}
+oklahoma.{28}
+funding{28}
+agency{65, 28, 61}
+provided{42, 28, 29, 39}
+assessment{28}
+fifteen{28}
+cents{61, 28, 29}
+per{57, 42, 28, 62}
+head{42, 28}
+fee{34, 28}
+cent{28}
+pound{28}
+statutory{28}
+references{57, 28}
+reference:{28}
+sections{28}
+1501{28}
+et{28}
+seq{28}
+statutes.{28}
+expenditures{28}
+fund{28}
+fy-93{28}
+fy-94{28}
+fy-95{28}
+fund:{28}
+actual{28}
+budgeted{28}
+appropriated{28}
+funds{28}
+$0{28}
+continuing{28}
+revolving{28}
+funds:{28}
+200sheep{28}
+10,544{28}
+12,356{28}
+19,500{28}
+federal{28}
+$10,544{28}
+$12,356{28}
+$19,500{28}
+object{28}
+expenditure{28}
+salaries{28}
+benefits{28}
+professional{58, 28, 53}
+services{28, 61, 38}
+travel{57, 28}
+1,809{28}
+4,310{28}
+4,000{28, 29}
+lease-purchase{28}
+equipment{28}
+payments{28}
+local{58, 61, 28, 37}
+sub-divisions{28}
+8,600{28}
+6,900{28}
+11,000{51, 28}
+promotion{28}
+1,000{28, 29}
+2,500{28}
+operating{28}
+expenses{28}
+135{42, 28}
+146{28}
+2,000{28}
+budget{65, 28}
+activity{28}
+sub-activity{28}
+no.{28, 61}
+administration{57, 28}
+$5,609{28}
+$4,398{28}
+$4,000{28}
+2,510{28}
+40{28}
+425{28}
+58{28}
+full-time-equivalent{28}
+employees{28}
+(fte){28}
+vehicles{28}
+fte{28}
+vehicles.{28}
+historical{28}
+perspective{28}
+review{28}
+since{57, 28}
+fy-90{28}
+spent{28}
+bulk{28}
+product{28}
+univ.{59, 28}
+rules{29}
+writing{58, 35, 29}
+contest{58, 29}
+colorado{58, 29}
+genealogical{58, 29}
+society.{58, 29}
+entries{58, 29, 54}
+postmarked{61, 29}
+friday{34, 29}
+april{64, 65, 29, 57, 61}
+1996,{29}
+mailed{29}
+below.{29}
+winners{29}
+announced{64, 29}
+annual{29, 62}
+meeting{29}
+society{57, 42, 58, 29}
+21{34, 29}
+june{34, 29, 39}
+1996.{29}
+membership{29}
+required.{29}
+become{57, 29}
+property{29}
+returned{29}
+disqualified.{29}
+reserves{29}
+entry.{29}
+winning{29}
+entry{29, 39}
+submitted{29}
+genealogist{58, 29}
+periodical's{29}
+customary{29}
+editorial{29}
+policy.{29}
+discretion{29}
+society's{29}
+quarterly{29}
+editor{58, 29}
+directors.{29}
+notified{29}
+end{29}
+whether{48, 29}
+published.{29}
+decision{64, 29}
+publish{29}
+upon{29, 39}
+notification{29}
+release{29}
+free{40, 29}
+elsewhere.{29}
+qualifying{29}
+manuscripts{29}
+bound{64, 29}
+placed{57, 29}
+denver{34, 58, 29}
+library.{29}
+manuscript{29}
+elsewhere{42, 29}
+prior{58, 29, 39}
+release.{29}
+assure{29}
+impartiality{29}
+judging{29}
+author's{29}
+appear{42, 29}
+cover{44, 29}
+sheet.{29}
+individual{65, 57, 29, 39}
+judges{58, 29}
+disqualify{29}
+reading{29}
+papers.{29}
+sheet{42, 29}
+containing:{29}
+name,{29}
+paper{58, 61, 29}
+entries:{29}
+typed{29}
+printed{61, 29}
+near-letter-quality{29}
+printer{29}
+10-pitch{29}
+12-pitch{29}
+double-spaced{29}
+1/2{29}
+x{61, 29}
+one-inch{29}
+margins{29}
+around.{29}
+page.{53, 37, 52, 29}
+documentation{58, 29}
+notes.{29}
+events{34, 29}
+dates{29}
+places{57, 35, 29}
+relationships{29}
+cited{29}
+properly.{29}
+guidelines{29}
+refer{29}
+richard{61, 29}
+lackey{29}
+cite{29}
+sources.{29}
+jackson:{29}
+press{64, 29, 59, 61, 30}
+mississippi{29}
+1980.{57, 29}
+chicago{29}
+manual{29}
+style.{29}
+14th{29}
+edition.{29}
+london:{29}
+subjects{58, 29}
+qualify{29}
+described{29}
+invitation{58, 29}
+announcement.{29}
+latest{64, 29}
+person{48, 58, 60, 29}
+written{58, 29}
+died{57, 58, 29}
+1930.{58, 29}
+english.{29}
+length{50, 29}
+less{57, 42, 29}
+words.{29}
+included{29}
+count.{29}
+packaged{29}
+stack{35, 29}
+sheets{42, 29}
+top{36, 29, 47}
+cardboard{29}
+poster{29}
+bottom.{29}
+fold{29}
+bind{29}
+staple{29}
+together.{29}
+large{42, 29, 39}
+envelope.{29}
+enclose{29}
+#10{29}
+sase{29}
+55{29}
+postage{61, 29}
+judges'{29}
+publishing.{29}
+wishes{29}
+know{58, 60, 29, 55}
+arrived{29}
+safely{29}
+self-addressed{29}
+postcard.{29}
+conform{29}
+disqualified{29}
+brief{40, 29}
+explanation.{29}
+corrected{29}
+resubmitted{29}
+deadline{29}
+passed.{29}
+contests{29}
+win{29}
+award{58, 29}
+citation{48, 29}
+resubmitted.{29}
+submit{29, 30}
+multiple{48, 42, 29}
+separately.{29}
+decisions{29}
+final.{29}
+p.o.{57, 58, 29}
+box{34, 29, 57, 58, 61}
+9218{58, 29}
+co{34, 58, 29}
+80209-0218{58, 29}
+test{32, 38, 64, 30}
+noise{40, 30}
+stuart's{32, 30}
+make?{30}
+answer{48, 44, 30}
+button:{30}
+.{50, 30, 39}
+..|..{31}
+alaskan{31}
+center{34, 46, 31}
+adventures{31}
+mall{31}
+mad{32}
+clickable{32}
+clicking{32}
+(each{32}
+message!){32}
+steerpike's{32}
+spot{32}
+ball{32}
+,try{32}
+enjoy{32}
+viewing{32}
+lovely{32}
+pictures{32}
+ascii{32}
+protein{32, 46}
+structure{32}
+dept.{32}
+chemistry{32}
+york{32, 34}
+heslington{32}
+uk{32, 42, 35, 55}
+yo1{32}
+5dd.{32}
+01904{32}
+432519{32}
+stuart{32}
+priest{32}
+priest@yorvic.york.ac.uk{32}
+optic{33}
+chiasm{33}
+hypothalamus{33}
+oculomotor{33}
+nerve{33}
+akc{34}
+calendar{34, 38}
+herding{34}
+trials{34}
+id{34}
+shetland{34}
+sheepdog{34}
+association{34, 58}
+windermere{34}
+kennel/farm{34}
+2680{34}
+ohio{34}
+match{56, 34}
+tannis{34}
+witherspoon{34}
+3115{34}
+rutter{34}
+parkway{34}
+spokane{34}
+wa{34}
+99208{34}
+hs{34}
+course{34, 35}
+-fee{34}
+${34}
+40.00{34}
+ducks{34}
+35.00{34}
+hi{34}
+ha{34}
+saturday{34, 36}
+ca{34, 52, 60}
+perris{34}
+pembroke{34}
+welsh{34}
+corgi{34}
+club{34}
+southern{34, 50}
+stonewall{34}
+ranch{34}
+27180{34}
+citrus{34}
+charlotte{34}
+zappala{34}
+26041{34}
+mcnatt{34}
+court{34}
+lake{34}
+forest{34}
+92630{34}
+30.00{34}
+mo{34}
+grain{34}
+valley{34}
+kansas{34, 53}
+city{34, 61}
+waggin'{34}
+tails{57, 34}
+acres{34}
+30802{34}
+deanna{34}
+feldman{34}
+826{34}
+w.{34, 50, 58}
+75th{34}
+64114{34}
+cattle{34}
+b{34}
+sunday{34}
+avenue{48, 34}
+cardigan{34}
+america{34, 51}
+inc.{34, 52}
+tail{34, 42}
+debra{34}
+richeson{34}
+2008{34}
+acorn{34}
+louisville{34}
+ky{34}
+40216{34}
+monday{34}
+wednesday{34, 36, 47}
+mi{34}
+davisburg{34}
+belgian{34}
+tervuren{34}
+springfield{34}
+oaks{34}
+park{34}
+4h{34}
+fairgrounds{34}
+andersonville{34}
+carol{34}
+lorenzon{34}
+3767{34}
+136th{34}
+cleveland{34}
+44111{34}
+18{48, 34}
+(corresponding{34}
+event){34}
+inland{34}
+empire{34}
+collie{34}
+f2680{34}
+nj{34}
+branchville{34}
+northeast{34}
+stockdog{34}
+connecticut{34}
+24{65, 34, 36, 42}
+dalrymple{34}
+sullivan{34}
+88{34}
+kinne{34}
+canterbury{34}
+ct{34}
+06331{34}
+19{34, 42}
+22{65, 34, 59, 42}
+north{34, 51, 58}
+plains{34}
+shady{34}
+brook{34}
+farms{34}
+rhonda{34}
+smiley{34}
+po{34}
+456{34}
+timberville{34}
+va{34}
+22853{34}
+div{34}
+a-fee{34}
+b-fee{34}
+c-fee{34}
+23{34}
+thursday{34, 36}
+bremerton{34}
+rottweiler{34}
+kitsap{34}
+1200{34}
+nw{34}
+lorraine{34}
+russel{34}
+607{34}
+98311{34}
+45.00{34}
+la{34}
+honda{34}
+redwood{34}
+fanciers{34}
+5730{34}
+84{34}
+bozrah{34}
+mayflower{34}
+meadowbrook{34}
+farm{34, 42, 62}
+356{34}
+salem{34}
+turnpike{34}
+chatsworth{34}
+san{34, 44}
+fernando{34}
+assoc.{34}
+facility{34}
+oak{34}
+santa{34}
+susana{34}
+pass{34, 42}
+janna{34}
+duncan{34}
+ondrak{34}
+7239{34}
+chicopee{34}
+van{34}
+nuys{34}
+91406{34}
+hillsboro{34}
+cascade{34}
+australian{57, 34, 59}
+dog{34}
+shadybrook{34}
+14940{34}
+claudia{34}
+weiss{34}
+33163{34}
+stone{34, 42}
+warren{34}
+97053{34}
+elizabeth{34}
+centennial{34}
+halcyon{34}
+station{34}
+28475{34}
+willa{34}
+yant{34}
+16275{34}
+e{34}
+hamilton{34}
+aurora{34}
+80013{34}
+willamette{34}
+ne{34}
+nebraska{34}
+kennel{34}
+inc{34}
+gaelyn-artisan{34}
+kennels{34}
+11708{34}
+capehart{34}
+barbara{34}
+witte{34}
+11704{34}
+68059{34}
+25.00{34}
+limit{64, 34}
+graham{34}
+german{34}
+washington{57, 34}
+gayle{34}
+white's{34}
+8805{34}
+247th{34}
+east{57, 34, 35}
+haines{34}
+21835{34}
+se{34}
+248th{34}
+maple{34}
+98038{34}
+july{57, 34}
+nova{34}
+buckeye{34}
+all-breed{34}
+hado-bar{34}
+1171{34}
+pa{34, 61}
+bangor{34}
+tending{34}
+breeds{34, 42}
+rasphesry{34}
+ridge{34}
+2167{34}
+minsi{34}
+janet{34}
+rose{34, 60}
+2000{34}
+sylvan{34}
+terrace{34}
+yardley{34}
+19067{34}
+c{34}
+70.00{34}
+wilton{34}
+sacramento{34}
+daydream{34}
+10056{34}
+dillard{34}
+august{34}
+springs{34}
+equestrian{34}
+849{34}
+south{57, 34, 59}
+kyle{34}
+sibinovic{34}
+7613{34}
+carteret{34}
+bethesda{34}
+md{34}
+20817{34}
+lewisberry{34}
+892{34}
+ak{34}
+palmer{34}
+alaska{34, 51}
+2075{34}
+gleen{34}
+cris{34}
+swanda{34}
+8121{34}
+resurrection{34}
+anchorage{34}
+99504{34}
+bouvier{34}
+des{34}
+flandres{34}
+tuesday{34, 36}
+monclova{34}
+briard{34}
+10625{34}
+mary{34, 58}
+anderson{34}
+4098{34}
+sunland{34}
+91041{34}
+aug{34}
+sheeps{35}
+celerbrates{35}
+t.{35}
+iconoclast®{35}
+visit{35}
+meta-mute{35}
+rants-and-raves,{35}
+quesions{35}
+spacebox,{35}
+axman,{35}
+pesh,netbox,powermap(next){35}
+engaged{35}
+pangea.{35}
+supervised{35}
+constrction{35}
+energysketch{35}
+hypercard(tm){35}
+helps{57, 50, 35}
+architects{35}
+approach{58, 35}
+lt{35}
+(light{35}
+thermal){35}
+method.{35}
+bartlett{35}
+architecture{35}
+gives{35}
+lectures{35}
+london{35}
+greenwich.{35}
+comming{35}
+urge{35}
+sheep@bartlett.ucl.ac.uk?{35}
+wildly{35}
+intreasting{35}
+preferances{35}
+virtual{35}
+reality{35}
+definitly{35}
+hard{42, 35, 44, 50}
+pretensious.{35}
+setting{35}
+area.{50, 35}
+mix{35}
+fonts{35}
+styles{35}
+starting{35}
+?{35}
+dyslexia{35}
+intreast{35}
+mine.{64, 35}
+apprpriate{35}
+technolgy{35}
+relaxing{35}
+study{35}
+cultural{35}
+artifact.{35}
+programming{35}
+big{35}
+fan{35}
+programing.{35}
+c,c++,object{35}
+pascal,basic,newton{35}
+script,hypertalk{35}
+(did{35}
+mention{35}
+hypertalk{35}
+compiler{35}
+pangea{35}
+?){35}
+wait{35}
+mb{35}
+load{64, 35}
+button..{35}
+nation(10mb{35}
+.aiff){35}
+alternatrively{35}
+revolutionise{35}
+industry...{35}
+somebodies{35}
+starts{35}
+artaids{35}
+artists{35}
+internet.{35}
+location{35}
+'gallery'{35}
+aids{35}
+project.{35}
+enoraging{35}
+to,donate{35}
+money,raise{35}
+awareness{35}
+manipulate{35}
+send{51, 35}
+modification{35}
+up.{35}
+idear{35}
+virus{35}
+(aids){35}
+(idear{35}
+virus).{35}
+jump{35, 46}
+found{51, 35}
+honestly.{35}
+list'{35}
+3d.objects.html,{35}
+vr-group,{35}
+gravigs.html,{35}
+newton{35}
+programming,{35}
+manchester{35}
+graphics,{35}
+bbc{35}
+(all{35}
+channels){35}
+mac{35}
+n.pope'{35}
+hampshire{36, 47}
+posted{36, 47}
+chris{36}
+(drobin3577@aol.com){36}
+october{48, 36, 55, 47}
+08:41{36}
+pm{36}
+cst{36, 47}
+interested{36}
+talking{36}
+follow-up{36, 47}
+postings:{36}
+pierce{36}
+march{65, 36, 61}
+01:23{36}
+cdt{36}
+01:22{36}
+bob{36}
+armstrong{36}
+january{57, 36}
+04{36}
+05:58{36}
+jenni{36}
+shipman{36}
+november{36}
+08{36}
+02:39{36}
+anne{57, 36}
+lloyd{36}
+31{36}
+11:06{36}
+nancy{36, 47}
+kavazanjian{36, 47}
+25{36, 47}
+09:35{36, 47}
+livestock.{36}
+discussion{48, 36, 47}
+groups{58, 36, 47}
+23/2/96.{37}
+finally{37}
+updated{65, 37}
+look{37}
+band{37}
+support.{37}
+stuff{37}
+soon!!{37}
+entered{37}
+strange{57, 37}
+world....{37}
+beasts....{37}
+meow.{37}
+football{37}
+wimbledon{37}
+fc{37}
+shaggy's{37}
+fa{37}
+premiership{37}
+wfc{37}
+summer.{45, 37}
+disclaimer!!{37}
+even{49, 42, 37, 57}
+stranger{37}
+people....{37}
+bit{37}
+kingston{37}
+ted{37}
+dave's{37}
+collection{51, 37}
+links..{37}
+colin's{37}
+fab{37}
+paul's{37}
+muddy..{37}
+lisa's{37}
+n.adams@kingston.ac.uk{37}
+genome{38}
+mapping{38}
+available{65, 45, 38}
+project:{44, 38}
+diagram.test{38}
+gif{38}
+diagram{38}
+sop{39}
+antibody{39}
+tested{39}
+negative{39}
+florescent{39}
+technique{57, 39}
+q-fever{39}
+vendor.{39}
+retested{39}
+arrival{57, 39}
+lar{39}
+elisa{39}
+technique.{58, 39}
+women{39}
+childbearing{39}
+years{51, 62, 39}
+technicians{39}
+assigned{39}
+housed{42, 39}
+cubicle.{39}
+room{39}
+remain{57, 39}
+locked{39}
+day{61, 39}
+signed{39}
+restricted{42, 39}
+care{39}
+duty{39}
+day.{39}
+masks{39}
+strongly{39}
+recommended.{39}
+launder{39}
+uniforms{39}
+wipe{39}
+shoes{39}
+bleach{39}
+solution.{39}
+shower{39}
+leaving{57, 39}
+facility.{39}
+raised{57, 39}
+wire{39}
+caging.{39}
+pens{39}
+hosed{39}
+daily{39}
+technician{39}
+wearing{39}
+disposable{39}
+gloves{39}
+contaminated{39}
+surfaces{50, 39}
+disinfected{39}
+1:100{39}
+dilution{39}
+household{39}
+chlorine{39}
+5.25%{39}
+hypochlorite.{39}
+fed{42, 39}
+alfalfa{39}
+cubes{39}
+rather{48, 42, 39}
+hay{39}
+minimize{39}
+potential{39}
+contamination.{39}
+sheared{57, 42, 39}
+purchase.{39}
+male{42, 39}
+non{39}
+pregnant{39}
+females{50, 39}
+used.{42, 39}
+monitoring{39}
+procedures:{39}
+serum{39}
+sample{39}
+file{44, 39}
+met{39}
+requirements{39}
+program.{39}
+training{39}
+session{39}
+inform{39}
+affected{42, 39}
+hazards{39}
+symptoms{39}
+illness{42, 39}
+provided.{39}
+personnel{39}
+advised{39}
+seek{58, 39}
+attention{57, 39}
+develop{39}
+febrile{39}
+compatible{39}
+q-fever.{39}
+go{39, 42, 48, 50, 55}
+fsu{39}
+laboratory{39}
+29{39}
+raindog{40}
+rockin{40}
+chs{40}
+.....a{40}
+version{40, 44, 46, 52}
+original{40, 48, 47}
+behind{40}
+vegetarian{42}
+transport{57, 42}
+slaughter{57, 42}
+mulesing{57, 42}
+tooth-grinding{42}
+44{42}
+million{57, 42}
+flock{42, 47}
+including{65, 57, 42}
+pure{42}
+300{42, 60}
+crossbreeds.{42}
+year{57, 42, 62}
+age{57, 42, 55, 47}
+whilst{42}
+breeding{57, 42, 50, 47}
+ewes.{42}
+slaughtered{42}
+lambs.{42, 47}
+intensive{57, 42}
+farming{42}
+practices{42}
+compared{42}
+rearing{42}
+involve{42}
+considerable{42}
+suffering{42}
+welfare{42}
+problems.{42, 62}
+ewes{57, 42, 62, 47}
+mated{42}
+second{48, 42}
+naturally{57, 42}
+heat{57, 42}
+autumn{42}
+winter{57, 42}
+gestation{42}
+period{42}
+five{42}
+meaning{42}
+born{57, 42}
+spring{57, 42, 46, 47}
+summer{42}
+weather{42}
+warmer{42}
+grass{57, 42}
+growing.{42}
+however{42}
+altered{42}
+controlled{42}
+brought{42}
+administering{42}
+hormones.{42}
+means{57, 42}
+providing{42}
+constant{42}
+supply{42}
+market.{42}
+usually{57, 42}
+farms.{42}
+single{42}
+ram{42, 50}
+serve{42}
+60{42, 59}
+artificial{42}
+insemination{42}
+uncommon{42}
+though{42}
+techniques{42}
+developed{42, 62}
+efficient.{42}
+selective{42}
+twice{42}
+year.{42}
+twins{42}
+triplets{42}
+ewe{42, 62}
+unborn{42}
+grow{57, 42, 55}
+narrow{42}
+birth{57, 42}
+canal{42}
+bred{57, 42}
+smaller.{42}
+choose{42}
+cut{57, 42}
+legs{42}
+womb.{42}
+embryotomy{42}
+carried{42}
+avoid{42}
+pay{42}
+vet{64, 42}
+perform{57, 42}
+caesarean.{42}
+widespread{42}
+50,000{42}
+believed{64, 42}
+manner{42}
+lambing{57, 42, 62}
+season.{42}
+die{57, 42}
+exposure{57, 42}
+hypothermia{42}
+starvation{57, 42}
+disease{57, 42}
+these.{42}
+sometimes{42}
+(due{42}
+births{42}
+death{57, 42}
+ewes.){42}
+orphan{42}
+auctioned{42}
+markets{42}
+old.{42}
+especially{42, 43, 50}
+mortality{57, 42}
+high.{42}
+35,000{42}
+sent{64, 42}
+trend{42}
+towards{42}
+intensification{42}
+weaned{42}
+earlier{42}
+milk{42}
+substitute{42}
+concentrates{42}
+indoors.{42}
+indoor{42}
+housing{42}
+lead{42}
+increasing{42, 50}
+coccidiosis{42}
+watery{42}
+mouth{42}
+lice.{42}
+castrated{57, 42}
+commonest{42}
+method{57, 42}
+application{42}
+tight{42}
+rubber{42}
+ring{42}
+cutting{42}
+blood{57, 42}
+supply.{42}
+castration{42}
+occur{42}
+anaesthetic{42}
+applied{65, 42}
+within{57, 42}
+life.{57, 42}
+(fawc){42}
+stated{42}
+causes{57, 42}
+considerably{42}
+pain{57, 42}
+alternative{42}
+clamping{42}
+acute{42}
+lasts{42}
+several{65, 42}
+hours{57, 42}
+ring.{42}
+performed{57, 42}
+surgically{42}
+knife.{42}
+present.{42}
+docking{42}
+anaesthetic.{42}
+15-25%{42}
+culled{42}
+lameness{42}
+poor{42}
+health{42}
+failing{42}
+flock.{42}
+stocking{42}
+densities{42}
+steadily{42}
+increasing.{42}
+causing{42}
+environmental{42}
+upland{42}
+areas{42, 51, 50}
+overgrazing{42}
+leads{42}
+loss{57, 42, 50}
+vegetation{42, 50}
+soil{42}
+erosion.{42}
+suffer{57, 42}
+wide{42}
+diseases.{42}
+foot-rot{42}
+lameness.{42}
+high{65, 57, 42}
+density{42}
+pens.{57, 42}
+caused{42}
+infectious{42}
+diseases{42}
+problem{42, 46}
+scab{42}
+myiasis{42}
+(blowfly{42}
+strike){42}
+distressing{42}
+potentially{42}
+fatal{42}
+contagious{42}
+prevented{42}
+dipping.{42}
+dipping{42}
+compulsory{42}
+1985{42}
+non-compulsory{42}
+1992.{42}
+dips{42}
+contain{56, 42}
+toxic{42}
+organophosphates{42}
+responsible{42}
+incidence{42}
+severe{42}
+farmers.{42}
+possible{42}
+effects{42}
+studied.{42}
+affecting{42}
+mastitis{42}
+toxoplasmosis{42}
+liver{42}
+fluke{42}
+scrapie{42}
+(related{42}
+bse{42}
+cattle).{42}
+pneumonia{42}
+exposed{42}
+harsh{42}
+conditions.{42}
+areas.{42}
+40%{42}
+conditions{42}
+hand{42, 53}
+shelter{57, 42}
+minimal.{42}
+indoors{42}
+enclosed{42}
+sheds{42}
+barns.{42}
+poorly{42}
+lit{42}
+concrete{42}
+slatted{42}
+floors.{42}
+transported{57, 42}
+distances{57, 42}
+slaughter.{42}
+1.3{42}
+exported{42}
+figure{42, 62}
+predicted{42}
+increase{42, 62}
+2.5{42}
+3.5{42}
+82%{42}
+france.{42}
+crammed{42}
+lorries{64, 42}
+tightly{57, 42}
+packed{57, 42}
+unable{42}
+lie{57, 42}
+extreme{42}
+heatstroke{42}
+common.{42}
+journeys{42}
+watered.{42}
+extremely{64, 57, 42}
+britain{42}
+direct{42}
+farm.{42}
+stress{42}
+injury.{42}
+90%{42}
+varying{42}
+ages.{42}
+electrical{42}
+stunning{42}
+followed{42}
+neck-cutting.{42}
+ineffective{42}
+regain{42}
+consciousness{42}
+bleeding-out{42}
+throat-slitting.{42}
+firing{42}
+captive{42}
+bolt{42}
+regarded{42}
+abattoirs{42}
+due{57, 42}
+costly.{42}
+prohibited{42}
+zealand.{42}
+consumed{42}
+imported{42}
+countries.{42, 51}
+leading{42}
+producer{42}
+exporter{42}
+estimated{57, 42}
+involves{57, 42}
+slicing{42}
+away{64, 42, 55}
+folds{57, 42}
+skin{57, 42}
+beneath{42}
+forms{42}
+wool-free{42}
+scar{42}
+prevents{42}
+blowfly{42}
+strike{42}
+(blowflies{42}
+laying{42}
+eggs{57, 42}
+damp{42}
+larvae{42}
+eating{42}
+flesh{42}
+sheep).{42}
+prolonged{42}
+pain.{42}
+seen{48, 57, 42}
+cheaper{42}
+easier{49, 42}
+alternatives{57, 42}
+regular{42}
+wool.{57, 42}
+older{42}
+routine.{42}
+supposed{42}
+reduce{57, 42}
+prematurely{42}
+broken{42, 55}
+teeth.{57, 42}
+rotary{42}
+machine{42, 61}
+slice{42}
+ewe's{42}
+teeth{57, 42}
+pulp{57, 42}
+almost{42}
+gum.{42}
+involving{42}
+shortening{42}
+likelihood{42}
+sensitive{57, 42}
+tissue.{42}
+illegal{42}
+uk.{42}
+tends{42}
+by-product{42}
+meat{57, 42}
+industry{42, 59}
+low{57, 42}
+quality.{42}
+5-10%{42}
+value{42}
+ewe.{42, 62}
+coarse{42}
+fabrics{42}
+carpets.{42}
+72{42}
+kg{42}
+clipped{42}
+provide{64, 65, 42, 58}
+lambswool.{42}
+entire{42}
+fleece{57, 42}
+piece.{42}
+selectively{42}
+produce{42, 44}
+thick{42}
+need{42, 44, 58}
+heatstroke.{42}
+sheared.{42}
+nearly{42, 51}
+one-third{42}
+(mostly{42}
+lambs).{42}
+skins{42}
+leather.{42}
+vegsocuk{42}
+john@portsveg.demon.co.uk{42}
+ben{42}
+leamy{42}
+leamy@uel.ac.uk{42}
+joke{43}
+fanatic?{43}
+heard{43}
+thousand{43}
+times.{43}
+dedicate{43}
+sheepjoke{43}
+lovers{43}
+(and{43}
+marty).{43}
+mongolian{44}
+felt{44}
+tent{44}
+(1995)client:{44}
+asian{51, 44}
+francisco{44}
+frame{44}
+shows{44}
+amount{44}
+annually{44}
+average{44}
+animated{44}
+asks{44}
+enough{48, 57, 44}
+tent?{44}
+probably{51, 44}
+think.{44}
+invited{44}
+download{44}
+sheep...{44}
+animation{44, 46}
+viewing.{44}
+macintosh{44}
+(1{44}
+megabyte){44}
+requires{44}
+68030{44}
+better{44}
+640{44}
+480{44}
+larger{44, 61}
+monitor{57, 44}
+256{44}
+colors.{44}
+self-unstuffing{44}
+archive{44}
+unstuff{44}
+1.6{44}
+megabytes{44}
+disk.{44}
+windows{44}
+(1.3{44}
+mebagytes){44}
+'486/33{44}
+colors{57, 44, 61}
+card.{44}
+pkzip{44}
+unzip{44}
+locate{44}
+pkunzip.exe{44}
+file.{44}
+interactive{44}
+publications{44}
+services.{44}
+jumpin'{46}
+jehosaphat{46}
++-x/{46}
+solve{62, 46}
+result!{46}
+faster{46}
+connection{46}
+jeshosaphat{46}
+150x150{46}
+pixel{46}
+uses{50, 46}
+netscape{46}
+1.1{46}
+push{46}
+numbers{56, 57, 46}
+gd1.1.1{46}
+library{48, 58, 46}
+quest{46}
+cold{57, 46}
+harbor{57, 46}
+labs.{46}
+home:{46}
+http://stout.bull.com/~dodds{46}
+dodds@stout.bull.com{46}
+(nkavy@aol.com){47}
+follow-up:{47}
+hamps.{47}
+presently{47}
+nine{47}
+kids{47}
+4-h.{47}
+wisconsin.{47}
+you?{47}
+livestock.@g{47}
+online{47}
+message{47}
+goudy's{48}
+peter{48}
+d.{48, 50}
+verheyen{48}
+(pdv1@cornell.edu){48}
+dec{48}
+14:24:10{48}
+david{48, 50}
+verheyen:{48}
+>date:{48}
+09:09:00{48}
+pst{48}
+>reply-to:{48}
+<graphics%ulkyvm.bitnet@uga.cc.uga.edu>{48}
+>sender:{48}
+>from:{48}
+rosemary{48}
+<esrlros@mvs.oac.ucla.edu>{48}
+>subject:{48}
+>x-to:{48}
+typo-l{48}
+<typo-l@irlearn.ucd.ie>{48}
+>x-cc:{48}
+<graphics@ulkyvm.louisville.edu>{48}
+>to:{48}
+recipients{48}
+>i{48}
+wondering{48}
+type-related{48}
+>historian{48}
+clear{48}
+something{48}
+going{48}
+trouble.{48}
+>there{48}
+two{48, 64, 62}
+quoted{48}
+fred.{48}
+quotes{48}
+rustling.{48}
+>first{48}
+(less{48}
+first){48}
+blackletter{48}
+>is{48}
+except{48}
+blackletter.{48}
+>inclined{48}
+believe{48, 57}
+>misquote.{48}
+(occasion{48}
+etc.){48}
+first,{48}
+>although{48}
+contemporary{48}
+citation.{48}
+>basically{48}
+conservative{48}
+beings{48}
+tend{48}
+saw{48}
+proper{48}
+etc.{48, 56}
+subsequent{48}
+variation{48}
+wrong,{48}
+>derivative{48}
+heresy{48}
+(in{48}
+>it{48}
+simply{48}
+believe.){48}
+effort{48}
+hunt{48}
+trouble,{48}
+>but{48}
+easily{48, 57}
+appreciate{48}
+>thanks,{48}
+>gunnar{48}
+swanson{48}
+office{48, 65, 61}
+>739{48}
+indiana{48}
+venice{48, 60}
+90291-2728{48}
+usa{48}
+>310/399-5191{48}
+fax:310/399-2675{48}
+|||{48}
+(0-0){48}
+ooo-{48}
+(_){48}
+books{48}
+conservator{48}
+cornell{48, 62}
+b-39{48}
+olin{48, 50}
+ithaca{48}
+14850{48}
+<wk>{48}
+607/255-2484{48}
+pdv1@cornell.edu{48}
+<fax>{48}
+607/255-9346{48}
+ooo{48}
+|__|__|{48}
+||{48}
+bookarts{48}
+archives{48}
+welcome{48, 51}
+changed:{48}
+simmons{49}
+(scs@lokkur.dexter.mi.us){49}
+19:46:28{49}
+-0400{49}
+(edt){49}
+[8lgm]{49}
+security{49}
+team:{49}
+[8lgm]-advisory-7.unix.passwd.11-may-1994.newfix{49}
+perry{49}
+metzger:{49}
+permissions{49}
+yeah{49}
+papa{49}
+doc{49}
+duvalier{49}
+military{65, 49}
+dictatorships{49}
+countries{49, 51}
+name.{49}
+prey{49}
+ob.{49}
+bug:{49}
+v{49}
+vendor(s){49}
+shipped{49}
+/etc{49}
+mode{49}
+777.{49}
+ovis{50, 54}
+canadensis{50}
+mexicana{50}
+size:{50, 61}
+adult{50}
+inches{50}
+weight{50}
+200{50}
+lbs.{50}
+western{50, 51}
+arizona{50}
+chihuahua{50}
+sonora{50}
+mexico.{50}
+habitat:{50}
+ridges{50}
+buttes.{50}
+diet:{50}
+herbivore{50}
+grasses{50}
+herbs{50}
+shrubs{50}
+cactus{50}
+fruit.{50}
+span:{50}
+status:{50}
+protected{50}
+habitat{50}
+invasion{50}
+competition{50}
+domestic{50, 51}
+exotic{50}
+animals.{57, 50}
+population{50}
+reintroduced{50}
+former{50}
+ranges.{50}
+adaptations:{50}
+anatomy:{50}
+sexes{50}
+horns.{50}
+female's{50}
+horns{50}
+slimmer{50}
+shorter{56, 50}
+massive{50}
+curled{50}
+ram.{50}
+senses:{50}
+peripheral{50}
+depth{50, 58}
+vision{50}
+allows{50, 61}
+mountainsides{50}
+falling{50}
+maintain{57, 50}
+allaround{50}
+surveillance{50}
+locomotion:{50}
+outer{50}
+edge{57, 50}
+hoof{50}
+enables{50}
+stand{57, 50}
+tiniest{50}
+projection.{50}
+sole{50}
+soft{50}
+rubberlike{50}
+cling{50}
+smooth{57, 50}
+cushion{50}
+jumping.{50}
+habits:{50}
+fighting{50}
+rights.{50}
+defense{65, 50}
+predators.{50}
+defense:{50}
+escapes{50}
+inaccessible{50}
+fights{50}
+weapon.{50}
+unit:{50}
+males{57, 50}
+separate{50}
+herds{50}
+year's{50}
+young.{50}
+season,{50}
+fight{50}
+harems{50}
+season{50}
+over.{50}
+misc.:{50}
+drinking{50}
+water{57, 50, 61}
+extended{50}
+periods.{50}
+relies{50}
+moisture{57, 50}
+cactus.{50}
+references:{50}
+bailey{50}
+v.{50}
+mammals{50, 51}
+southwestern{50}
+united{50}
+states{50}
+1971.{50}
+clark{50}
+j.{50}
+l.{57, 50}
+arc{50}
+1967.{50}
+grzimek{50}
+bernard{50}
+encyclopedia{50}
+1972.{50}
+macdonald{50}
+ed.{50}
+1985.{50}
+g.{50}
+southwest{50}
+deserts{50}
+russo{50}
+1965.{50}
+walker{50}
+ernest{50}
+p.{50}
+1975.{50}
+phoenix{50}
+zoo.{50}
+zoo{50}
+trails{50}
+explore,{50}
+-//w30//dtd{51}
+w3{51}
+2.0//en\{51}
+lars'{51}
+homepage{51}
+homepage.{51}
+say.....{51}
+guitar{51}
+does.....{51}
+expected{51}
+surfing{51}
+page!{51}
+grazing{51}
+either{51}
+domesticated;{51}
+domesticated{51}
+varieties{51}
+widely{51}
+distributed{51}
+species{57, 51, 54}
+world:{51}
+dall{51}
+mouflon{51}
+mediterranean{51}
+asia{51}
+urial{51}
+afghanistan{51}
+pakistan{51}
+argali{51}
+eastern{51}
+asia.{51}
+ago{51}
+iraq{51}
+descended{51}
+primarily{51}
+although{51}
+suggests{51}
+contributed{64, 51}
+breeds.{51}
+mail{51}
+lars@cs.vu.nl{51}
+register{52}
+sunsoft{52}
+developers{52}
+conference{52}
+boston{52}
+ma{52, 61}
+15-16{52}
+text-only{52}
+java{52}
+webmaster@sun.com{52}
+1996{65, 58, 52}
+2550{52}
+garcia{52}
+ave.{52}
+mtn.{52}
+94043-1100{52}
+reserved{52}
+baaaaa!{53}
+love{53, 55}
+you!!{53}
+sweaters{53}
+chops!{53}
+warm{53}
+fuzzy{53}
+companions!!{53}
+entertainment{53}
+hear{53}
+noises:{53}
+henry{53}
+greg{60, 53}
+sue{53}
+noises{53}
+ruminants{53}
+clip{53}
+skit{53}
+calculator{53}
+fun!!{53}
+play{53, 55}
+game{53}
+career{53}
+opportunities{53}
+unsolicited{53}
+true{53}
+religion{53}
+acts{53}
+volunteer{58, 53}
+spare{53}
+time.{53}
+lend{53}
+season!!{53}
+haven{53}
+dancers{53}
+update{53}
+12/10/95{53}
+ttsw{53}
+webmaster@ttsw.com{53}
+...transfac{54}
+...molecular{54}
+bioinformatics{54}
+...sites{54}
+aries{54}
+ordered{64, 54}
+genes{54}
+blg{54}
+(beta-lactoglobulin){54}
+transfac{54}
+26-10-1995{54}
+transfac@gbf-braunschweig.de{54}
+wall{55}
+m{55}
+1989{55}
+(4:20){55}
+circle{55}
+(acoustic){55}
+(3:21){55}
+notebook{55}
+(4:39){55}
+formats{55}
+(am563){55}
+(1,2){55}
+(amx563){55}
+(1,2,3){55}
+(amcd563){55}
+cd{55}
+(cd17875){55}
+(1){55}
+(sp17801){55}
+au{55}
+(?){55}
+you:{55}
+wish{55}
+shade{55}
+pull{55}
+feel{55}
+afraid{55}
+watching{56, 55}
+hurts{55}
+pray{55}
+thoughts!{55}
+coming{55}
+wall?{55}
+hold{55}
+thoughts{55}
+jar{55}
+marked{55}
+fear{55}
+boys{55}
+experiment{55}
+lives{55}
+eyes{55}
+brother{55}
+strong{55}
+storm{55}
+rain{55}
+i?{55}
+building{55}
+so!{55}
+really{55}
+deep?{55}
+closed{55}
+turned{55}
+distance{55}
+innocence{55}
+¤{55}
+discography{55}
+tony{55}
+niweb{55}
+comment{55}
+query.{56}
+ranked{56}
+relative{56}
+importance.{56}
++berkeley{56}
+indicate{56}
+word{56, 58}
+-berkeley{56}
+not.{56}
+spaces{56}
+symbols.{56}
+letters{56}
+is,{56}
+ignored.{56}
+endings{56}
+ing{56}
+ed{56}
+matches{56}
+share{56}
+root.{56}
+example,{56}
+watch{56}
+watched,{56}
+miscellaneous{57}
+#6{57}
+manufacturing:shear{57}
+burdened{57}
+interference{57}
+temperature{57}
+extremes.{57}
+insulation{57}
+heat.{57}
+shears{57}
+invented{57}
+1000{57}
+b.c.{57}
+pluck{57}
+molting{57}
+seasons.{57}
+continuous{57}
+growth{57}
+began{57}
+advent{57}
+shears.(1){57}
+148{57}
+produces{57}
+eighty{57}
+percent{57}
+worldwide.{57}
+flocks{57}
+consist{57}
+thousands{57}
+needs{57}
+virtually{57}
+impossible.{57}
+lambs'{57}
+ears{57}
+punched{57}
+chopped{57}
+anesthetic.{57}
+according{57}
+law{57, 60}
+reform{57}
+chairman{57}
+m.d.{57}
+kirby{57}
+operations{57}
+cruelty{57}
+dogs{57}
+cats.(8){57}
+rates{57, 61, 62}
+normal{57}
+20-40{57}
+eight{57}
+mature{57}
+lack{57}
+neglect.{57}
+shearing.(6){57}
+merinos{57}
+specifically{57}
+wrinkly{57}
+(which{57}
+animal).{57}
+unnatural{57}
+overload{57}
+exhaustion{57}
+hot{57}
+wrinkles{57}
+collect{57}
+urine{57}
+moisture.{57}
+attracted{57}
+flies{57}
+lay{57}
+hatched{57}
+maggots{57}
+literally{57}
+eat{57}
+alive.{57}
+flystrike,{57}
+ranchers{57}
+barbarous{57}
+operation--{57}
+--or{57}
+carving{57}
+huge{57}
+strips{57}
+backs{57}
+unanesthetized{57}
+done{57}
+scarred{57}
+eggs.{57}
+bloody{57}
+wounds{57}
+flystrike{57}
+heal{57}
+despite{57}
+feeling{57}
+saves{57}
+mutilation{57}
+continues.(10){57}
+aging{57}
+subjected{57}
+tooth-grinding,{57}
+procedure{57}
+claim{57}
+reduces{57}
+tooth{57}
+extends{57}
+productive{57}
+battery-operated{57}
+grinder{57}
+wear{57}
+disc{57}
+cutter{57}
+near{64, 57}
+level{57}
+gums.{57}
+terrifying{57}
+painful{57}
+exposes{57}
+cavities{57}
+inside{57}
+bleed{57}
+profusely.(9){57}
+faced{57}
+vast{57}
+amounts{57}
+rational{57}
+existing{57}
+ones{57}
+decently.{57}
+instead{57}
+forced{57}
+bear{57}
+drugs.{57}
+malnourished{57}
+taken{57}
+laboratories{57}
+climate-controlled{57}
+chambers{57}
+determine{57}
+withstand{57}
+die.(7){57}
+commodities,{57}
+fluctuations{57}
+economy.{57}
+shot{57}
+buried{57}
+mass{57}
+graves{57}
+practically{57}
+valueless{57}
+lingering{57}
+drought{57}
+prices.{57}
+shear{57}
+torture{57}
+shed{57}
+coats.{57}
+timing{57}
+critical:{57}
+late{57}
+rush{57}
+premature{57}
+shearing.{57}
+closely{57}
+shorn{57}
+fact{57}
+naked{57}
+man{57}
+body{57}
+102{57}
+degrees{57}
+f{57}
+higher{57}
+human's.(2){57}
+speed{57}
+everything.{57}
+shearers{57}
+paid{57}
+volume{57}
+hour{57}
+encourages{57}
+working{57}
+quickly{57}
+carelessly.{57}
+eyewitness:{57}
+worst{57}
+punch{57}
+fists{57}
+noses{57}
+bled.{57}
+half{57}
+faces{57}
+off.{57}
+export{57}
+longer{57}
+slaughterhouses{57}
+trucks{57}
+trains{57}
+water.{57}
+trampled{57}
+frightened{57}
+dead{57}
+dying{57}
+piled{57}
+heaps.{57}
+foot{57}
+rot{57}
+attempt{57}
+drag{57}
+knees.(11){57}
+ultimate{57}
+middle{57}
+supports{57}
+important{57}
+component{57}
+industry.{57}
+reach{64, 57}
+feedlots{57}
+held{57}
+loaded{57}
+onto{57}
+ships.{57}
+ill{57}
+wounded{57}
+journey{57}
+crowding{57}
+holding{57}
+eighteen{57}
+3-6{57}
+feedlot{57}
+15,000{57}
+1983.(12){57}
+surviving{57}
+sheep--7{57}
+year--are{57}
+herded{57}
+14-tier-high{57}
+ships{57}
+resembling{57}
+old{57}
+slave-trade{57}
+125,000{57}
+ship{57}
+allocated{57}
+area{57}
+hardly{57}
+bigger{57}
+troughs.{57}
+mired{57}
+sea-sickness{57}
+extremes{57}
+injuries.{57}
+younger{57}
+babies{57}
+en{57}
+route{57}
+death.{57}
+shipboard{57}
+ranges{57}
+dies{57}
+others{57}
+injured.(13){57}
+three-week{57}
+trip{57}
+ritual{57}
+(halal).{57}
+moslem{57}
+religious{57, 58}
+require{57}
+knife{57}
+sharpened{57}
+kills{57}
+throats{57}
+sawed{57}
+dull{57}
+knives.{57}
+sitra{57}
+abbatoir{57}
+bahrain{57}
+begin{57}
+slaughtering{57}
+pen{57}
+full.{57}
+wave{57}
+heads{57}
+obvious{57}
+confusion{57}
+trying{57}
+gushed{57}
+throats.{57}
+(14){57}
+trunk{57}
+car{57}
+buyer's{57}
+home.{57}
+scapegoats{57}
+result{57}
+government{57}
+permits{57}
+approximately{57}
+kangaroos{57}
+views{64, 57}
+pests{57}
+cows.{57}
+ninety{57}
+kangaroo{57}
+killers{57}
+weekend{57}
+hunters{57}
+killing{57}
+expedient{57}
+methods{57}
+poisoning{57}
+beating{57}
+impaling{57}
+stakes{57}
+hooks{57}
+skinning{57}
+standard{57}
+recounted{57}
+erlich{57}
+extinction:{57}
+consequences{57}
+disappearance{57}
+spotlight{57}
+cars{57}
+night.{57}
+freeze{57}
+rifles.{57}
+immediately{57}
+purposely{57}
+them--sometimes{57}
+fresh{57}
+collected.{57}
+lieberman{57}
+humane{57}
+joeys{57}
+young{57}
+worth{57}
+cost{57}
+bullet...and{57}
+thrown{57}
+bumper{57}
+kicked{57}
+head.{57}
+vilified{57}
+allegedly{57}
+preying{57}
+livestock{57}
+poisoned{57}
+burned{57}
+hundreds{64, 57}
+government.{57}
+clothes{57}
+blankets{57}
+allergic{57}
+cotton{57}
+flannel{57}
+polyester{57}
+man-made{57}
+fibers.{57}
+wash{57}
+shrink{57}
+bright{57}
+contribute{57}
+cruelty.{57}
+ryder{57}
+michael{57}
+evolution{57}
+fleece,{57}
+scientific{57}
+1987.{57}
+commonwealth{57}
+organization{65, 57}
+(csiro){57}
+wales{57, 59}
+australia.{57}
+hudson{57}
+harvest,{57}
+scientist{57}
+september{57}
+ibid.{57}
+scherer{57}
+ron{57}
+peelable{57}
+fantasy,{57}
+christian{57, 58}
+horrors{57}
+farm,{57}
+agscene{57}
+1986.{57}
+batt{57}
+eva{57}
+machines,{57}
+vegan{57}
+oxford{57}
+england.{57}
+op.{57}
+cit.{57}
+(li){57}
+townsend{57}
+christine{57}
+pulling{57}
+ethical{57}
+treatment{57, 58}
+42516{57}
+dc{57}
+20015{57}
+301-770-peta{57}
+announcement{58}
+invites{58}
+compete{58}
+excellence.{58}
+purpose{58}
+opportunity{58}
+apply{58}
+documenting{58}
+skills{58}
+matter.{58}
+originality{58}
+choice{58}
+presentation{58}
+matter{58, 60}
+achievement{58}
+excellence{58}
+documentation.{58}
+important.{58}
+defined{58}
+undesirable{58}
+disgraceful{58}
+family{58}
+group.{58}
+family.{58}
+topics:{58}
+genealogy{58}
+ownership{58}
+bordello{58}
+city/family/state{58}
+notorious{58}
+woolly{58}
+ancestor{58}
+friend{58}
+unusual{58}
+owner{58}
+infamous{58}
+markers{58}
+boot{58}
+cemetery{58}
+jail{58}
+(the{58}
+entry){58}
+heretic{58}
+devout{58}
+heretics.{58}
+judged{58}
+criteria{58}
+style{58}
+(technique{58}
+presenting{58}
+subject){58}
+evaluation{58}
+evidence;{58}
+quality{58}
+source{58}
+material{58}
+mechanics{58}
+(form{58}
+grammar{58}
+punctuation{58}
+spelling{58}
+documentation).{58}
+overall{58, 61}
+presentation.{58}
+addition,{58}
+citations{58}
+awarded{58}
+recognition{58}
+guest{58}
+judge{58}
+helen{58}
+f.{58}
+m.{58}
+leary{58}
+cg{58}
+cgl{58}
+fasg{58}
+fngs,{58}
+writer{58}
+speaker{58}
+co-editor{58}
+contributing{58, 59}
+carolina{58}
+research:{58}
+(currently{58}
+revision{58}
+2nd{58}
+edition){58}
+fellow{58}
+genealogists{58}
+society;{58}
+samford{58}
+institute{58}
+(coordinator{58}
+courses{58}
+profession{58}
+historic{58}
+halifax{58}
+restoration{58}
+lecturer{58}
+museum's{58}
+women's{58}
+symposium.{58}
+ann{58}
+finlay{58}
+cgs{58}
+newsletter;{58}
+coordinator{58}
+boulder{58}
+member{58}
+parliamentarians{58}
+parliamentarian{58}
+seminar{58}
+chair{58}
+societies{58}
+experienced{58}
+expert{58}
+processing{58}
+contributor{58}
+publications.{58}
+kathleen{58}
+hinckley{58}
+cgrs{58}
+operator{58}
+discover{58}
+roots{58}
+business;{58}
+specialist{58}
+20th{58}
+trustee{58}
+certification{58}
+served{58}
+president/honorary{58}
+genealogists.{58}
+handbook{59}
+dj{59}
+cottle{59}
+(ed){59}
+kensington{59}
+nsw{59}
+comprehensive{59}
+activities{59}
+based.{59}
+departments{59}
+universities{59}
+organisations{59}
+leaders{59}
+field.{59}
+essential{59}
+undergraduate{59}
+postgraduate{59}
+students.{59}
+1991{59}
+499p.{59}
+illus{59}
+indexes{59}
+hardcover{59}
+909605{59}
+$69.95{59}
+inkata{59}
+smith{60, 61}
+(fixer@d2.com){60}
+14:07:05{60}
+(pdt){60}
+strockbine:{60}
+is?{60}
+thomas:{60}
+moontribal{60}
+reply:{60}
+else{60}
+herd{60}
+desert?{60}
+polite{60}
+moved{60}
+trail{60}
+honked.{60}
+concerning{60}
+follow{60}
+recommend{60}
+jeep.{60}
+take...{60}
+fix.er{60}
+\'fik-s{60}
+r\{60}
+n{60}
+fixes{60}
+intervenes{60}
+enable{60}
+circumvent{60}
+political{60}
+favor{60}
+adjusts{60}
+matters{60}
+disputes{60}
+negotiation{60}
+smith:{60}
+fixer@d2.com{60}
+310/314-2920{60}
+310/314-2866(fax){60}
+310/501-3279(pager){60}
+domain:{60}
+ave{60}
+90291{60}
+310/314-2800{60}
+310/314-2888(fax){60}
+nonprofit{61}
+envelope{61}
+technical{65, 61}
+denomination:{61}
+nondenominated{61}
+(5-cent){61}
+format:{61}
+stamped{61}
+(single{61}
+w/o{61}
+window){61}
+city:{61}
+college{61}
+state:{61}
+douglas{61, 62}
+brookline{61}
+years:{61}
+usps{61}
+stamp{61}
+director:{61}
+sheaff{61}
+norwood{61}
+typographer:{61}
+manager:{61}
+joseph{61}
+brockert{61}
+postal{61}
+manufacturing{61}
+process:{61}
+flexography{61}
+printer:{61}
+westvaco{61}
+@:{61}
+williamsburg{61}
+type:{61}
+vh{61}
+envelope-forming{61}
+recycled{61}
+gum{61}
+activated{61}
+processed{61}
+(pms{61}
+colors):{61}
+brown{61}
+492){61}
+green{61}
+562){61}
+3/4{61}
+envelopes{61}
+image{61}
+area:{61}
+2.61{61}
+1.04{61}
+inches/66.3{61}
+26.4{61}
+mm{61}
+size{61}
+(#6{61}
+envelope):{61}
+6.53{61}
+3.60{61}
+inches/{61}
+165.9{61}
+x91.4{61}
+(#10{61}
+9.48{61}
+4.11{61}
+240.8{61}
+x104.4{61}
+marginal{61}
+markings:{61}
+symbol{61}
+price{61}
+each:{61}
+(5{61}
+plus{61}
+envelope){61}
+catalog{61}
+item{61}
+number:{61}
+2151{61}
+plain){61}
+500{61}
+$37.00{61}
+($25{61}
+postage){61}
+2152{61}
+w/window){61}
+$38.00{61}
+2627{61}
+$33.20{61}
+2628{61}
+$34.00{61}
+c2151{61}
+w/first{61}
+cancellation{61}
+$0.50{61}
+c2152{61}
+c2627{61}
+c2628{61}
+comments:{61}
+replaces{61}
+11.1-cent{61}
+birds{61}
+presort{61}
+postmark{61}
+purchase{61}
+post{61}
+philatelic{61}
+center,{61}
+addressed{61}
+customer{61}
+affixed{61}
+postmaster{61}
+16801-9991{61}
+requests{61}
+cancellations{61}
+9,1995.{61}
+eagle{61}
+flag{61}
+hogue{62}
+limitations{62}
+seasonality{62}
+star{62}
+management{62}
+systematic{62}
+schedule{62}
+periods{62}
+evenly{62}
+spaced{62}
+continuity{62}
+1.67{62}
+increased{62}
+coupling{62}
+frequency{62}
+rate{62}
+realizing{62}
+magee{62}
+manager{62}
+depicts{62}
+police{64}
+halt{64}
+shoreham{64}
+news{64, 65}
+portsmouth{64}
+28{64}
+1995.{64}
+protesters{64}
+hail{64}
+intervention{64}
+brighton{64}
+victory.{64}
+stopped{64}
+lorry{64}
+carrying{64}
+exports{64}
+harbour{64}
+today{64}
+driver{64}
+port.{64}
+halted{64}
+sussex{64}
+escorts{64}
+exporters.{64}
+gathered{64}
+port{64}
+cheltenham{64}
+six{64}
+miles{64}
+brighton.{64}
+shippers{64}
+international{64}
+traders{64}
+ferries{64}
+resolve{64}
+police.{64}
+itf's{64}
+ford{64}
+pulled{64}
+chief{64}
+inspector{64}
+kelly{64}
+mccartney{64}
+warned{64}
+continue.{64}
+cameraman{64}
+itf{64}
+filmed{64}
+incident{64}
+ministry{64}
+inspected{64}
+176{64}
+passed{64}
+fit.{64}
+spokesman{64}
+owners{64}
+g{64}
+gilder{64}
+gloucs.{64}
+said{64}
+shoreham.{64}
+annoyed{64}
+roadworthy{64}
+insured{64}
+queen's{64}
+reason.{64}
+demonstrators{64}
+hailed{64}
+four-month{64}
+battle{64}
+shipments{64}
+france{64}
+triumph.{64}
+said:{64}
+absolutely{64}
+delighted.{64}
+favour{64}
+thing.{64}
+constable{64}
+whitehouse{64}
+exporters{64}
+delivering{64}
+week.{64}
+john@portsveg.demon.co.uk.{64}
+scanned{64}
+expressed{64}
+necessarily{64}
+advanced{65}
+projects{65}
+(darpa){65}
+(dod).{65}
+manages{65}
+directs{65}
+selected{65}
+basic{65}
+dod{65}
+pursues{65}
+risk{65}
+payoff{65}
+success{65}
+dramatic{65}
+advances{65}
+traditional{65}
+roles{65}
+missions{65}
+dual-use{65}
+applications.{65}
+website{65}
+divided{65}
+tracks.{65}
+select{65}
+list.{65}
+describes{65}
+darpa{65}
+darpa's{65}
+offices{65}
+description{65}
+support{65}
+communicate{65}
+businesses{65}
+(sbir/sbsc){65}
+happenings{65}
+solicitations{65}
+listing{65}
+new?{65}
+symposium,{65}
+arpatech{65}
+'96{65}
+set{65}
+westin{65}
+peachtree{65}
+hotel{65}
+atlanta{65}
+georgia.{65}
+overview{65}
+briefing{65}
+[home]{65}
+[mission]{65}
+[organization]{65}
+[information]{65}
+[news]{65}
+[solicitations]{65}
+webmaster@arpa.mil{65}
